@@ -12,7 +12,7 @@ Trabajar con diferentes contextos disponibles durante las ejecuciones del flujo 
        - `Show Info`, que imprime las siguientes líneas que contienen información del contexto de github (consejo: usar un script de varias líneas con varios comandos de eco):
           ```shell
           "Nombre del evento: <recupere el nombre del evento aquí>"
-          "Ref: <recupere la referencia aquí>"        
+          "Ref: <recupere el nombre de la rama aquí>"        
           ```
        - `Retrieve Variable`, que imprime dos lineas:
            - una que contiene el valor de una variable del repositorio denominada `MY_VAR`.
